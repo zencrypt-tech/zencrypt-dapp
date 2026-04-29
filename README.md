@@ -102,8 +102,8 @@
   <img src="https://img.shields.io/badge/Status-Alpha%20Web3-2C74B3?style=for-the-badge" alt="Project Status"></p>
 <hr>
 
-<h4 align="center"><code>
-  <a href="#1-project-purpose-and-evolution">Project Purpose and Evolution</code></a> •
+<h4 align="center">
+  <code><a href="#1-project-purpose-and-evolution">Project Purpose and Evolution</code></a> •
   <code><a href="#2-architecture--technology-stack">Architecture & Technology Stack</code></a> •
   <code><a href="#3-features-and-functionalities">Features and Functionalities</code></a>
   <br>
