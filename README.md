@@ -19,15 +19,15 @@
 <html>
   <body>
     <hr>
-    <h1 align="center">Zencrypt</h1>
+    <h1 align="center">Zencrypt dApp Release</h1>
     <hr>
-    <br>
+<!--    <br>
     <p align="center">
-      <strong>dApp Release</strong>
+      <strong>dApp Release</strong> -->
 <!--       <br>
-      <strong>By: Ryan Hatch</strong> -->
+      <strong>By: Ryan Hatch</strong> 
       <br>
-    </p>
+    </p> -->
     <p align="center">
       <a href="#table-of-contents">Table of Contents</a><br>
        <a href="#introduction">Introduction</a> • <a href="#features">Features</a> • <a href="#examples">Examples</a> • <a href="#contributing">Contributing</a> • <a href="#disclaimer">Disclaimer</a> • <a href="#license">License</a> • <a href="#contact">Contact</a>
